@@ -30,6 +30,13 @@
 
   <developers>
     <developer>
+      <id>teamgithubplayer</id>
+      <name>Rovshan Sapaev</name>
+      <email>ravshan87@yahoo.com</email>
+      <organizationUrl>https://github.com/teamgithubplayer</organizationUrl>
+      <timezone>Europe/Berlin</timezone>
+    </developer>
+    <developer>
       <id>nbaars</id>
       <name>Nanne Baars</name>
       <email>nanne.baars@owasp.org</email>
